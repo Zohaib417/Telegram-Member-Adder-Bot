@@ -1,4 +1,7 @@
 # Telegram-Member-Adder-Bot
+
+![adder](https://github.com/user-attachments/assets/ecbf4fdb-972c-46ad-b441-5401079736c3)
+
 Telegram Member Adding Bot - Add Unlimited Members to Your Group!
 
 Follow these simple steps to add members to your Telegram group using our bot:
@@ -17,3 +20,5 @@ A detailed video tutorial will be uploaded soon to guide you through the process
 contact us : https://t.me/Promotele21
 
 join our channel: https://t.me/membersadder21
+
+Video tutorial: https://youtu.be/A0890DqIGYI?si=-fPHjJl4XAEptby-
