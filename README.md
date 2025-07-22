@@ -16,8 +16,6 @@ A detailed video tutorial will be uploaded soon to guide you through the process
 
 
  Bot: https://t.me/adder804bot
- 
-contact us : https://t.me/Promotele21
 
 join our channel: https://t.me/membersadder21
 
